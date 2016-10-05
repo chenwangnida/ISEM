@@ -49,7 +49,7 @@ public class ISeMCLITool {
 	
 	private static File		DEFAULT_MODEL = new File("default_model.xml");
 	
-	private static String	DEFAULT_FILTER_MODEL = "filter/isem/svm_logic-based_text-similarity_structure_approx-logic-based_specification.filter";
+	private static String	DEFAULT_FILTER_MODEL = "filter/isem/logic-based.filter";
 	
 	private static String	WELCOME = "Welcome to iSeM v1.1 (Intelligent Service Matchmaker).";
 	
