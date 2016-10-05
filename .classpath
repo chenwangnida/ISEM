@@ -14,5 +14,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/pelletJGraphT"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/pelletxsdlib"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/pelltowlapi"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/prolog"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
